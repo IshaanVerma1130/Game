@@ -367,10 +367,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rocket Ship
       objectReference: {fileID: 0}
-    - target: {fileID: 4296194953827553654, guid: f10254ae908c7614fb27c53a902fee88, type: 3}
-      propertyPath: m_Mass
-      value: 0.1
-      objectReference: {fileID: 0}
     - target: {fileID: 7262470069150068924, guid: f10254ae908c7614fb27c53a902fee88, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -415,10 +411,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7675495106007869123, guid: f10254ae908c7614fb27c53a902fee88, type: 3}
-      propertyPath: m_audioClip
-      value: 
-      objectReference: {fileID: 8300000, guid: 1e8622158f380a545826945e69f4c75b, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f10254ae908c7614fb27c53a902fee88, type: 3}
 --- !u!1001 &6860278389701123554
